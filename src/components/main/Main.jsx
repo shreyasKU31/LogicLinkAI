@@ -21,7 +21,7 @@ const Main = () => {
   return (
     <div className="main">
       <div className="nav">
-        <p>Gemini</p>
+        <p>LogicLink</p>
         <img src={assets.user_icon} alt="" />
       </div>
       <div className="main-container">
@@ -31,7 +31,7 @@ const Main = () => {
               <p>
                 <span>Hello, Dev.</span>
               </p>
-              <p>How can I help you today?</p>
+              <p>Wellcome to LogicLink..</p>
             </div>
             <div className="cards">
               <div className="card">
